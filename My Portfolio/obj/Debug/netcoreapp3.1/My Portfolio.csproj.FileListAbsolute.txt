@@ -1,0 +1,110 @@
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.exe
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.deps.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.runtimeconfig.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.runtimeconfig.dev.json
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.pdb
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.Views.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\My Portfolio.Views.pdb
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.csprojAssemblyReference.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.AssemblyInfoInputs.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.AssemblyInfo.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.RazorAssemblyInfo.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.RazorAssemblyInfo.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.TagHelpers.input.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.TagHelpers.output.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.RazorCoreGenerate.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.RazorTargetAssemblyInfo.cs
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.Views.pdb
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\staticwebassets\My Portfolio.StaticWebAssets.Manifest.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\staticwebassets\My Portfolio.StaticWebAssets.xml
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.pdb
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.genruntimeconfig.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.csproj.CopyComplete
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\My Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aidin\source\repos\My Portfolio\My Portfolio\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs

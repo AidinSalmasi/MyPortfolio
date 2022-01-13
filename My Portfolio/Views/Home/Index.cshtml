@@ -1,0 +1,47 @@
+﻿
+@model List<Portfolio>
+
+@{
+    ViewData["Title"] = "Home Page";
+
+}
+
+
+@section SEO
+{
+    <meta name="keywords" content="My projet , projects" />
+    <meta name="description" content="index description" />
+}
+
+<section id="one">
+    <header class="major">
+        <h2>
+            @ViewData["headingTitle"]
+        </h2>
+    </header>
+    <p>
+        @ViewBag.headingText
+    </p>
+</section>
+
+
+
+<section id="two">
+    
+    <h2>نمونه کار های اخیر</h2>
+    <div class="row">
+        
+        @foreach (var portfolio in Model)
+        {
+            <article class="6u 12u$(xsmall) work-item">
+                <a href="~/images/thumbs/@portfolio.Image" class="image fit thumb" alt="@portfolio.Title"  title="@portfolio.Description">
+                    <img src="~/images/thumbs/@portfolio.Image" alt="@portfolio.Title"  title="@portfolio.Description"/>
+                </a>
+                <h3>@portfolio.Title</h3>
+                <p>@portfolio.Description</p>
+            </article>
+        }
+        
+
+    </div>
+</section>
